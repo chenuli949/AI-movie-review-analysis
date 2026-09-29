@@ -1,4 +1,4 @@
-🎬 Sentiment Analysis of IMDb Movie Reviews — Deep Learning Models Comparison
+# 🎬 Sentiment Analysis of IMDb Movie Reviews — Deep Learning Models Comparison
 
 This project predicts whether a movie review expresses a **positive** or **negative** sentiment using deep learning.
 The dataset contains 50,000 English-language movie reviews from IMDb, released as the *Large Movie Review Dataset* (Maas et al., 2011) and made available on Kaggle.
@@ -28,8 +28,7 @@ AI-movie-review-analysis/
 │   ├── 03_1D_CNN.ipynb              # 1D-CNN Text Classifier
 │   ├── 04_LSTM.ipynb                 #LSTM Classifier for Sequential Context
 │   ├── 05_BiLSTM.ipynb               # Bidirectional LSTM with Dropout
-│   
-└── 
+
 ```
 
 ---
@@ -136,9 +135,9 @@ Each notebook can also be opened directly in Google Colab (badge at the top of t
 
 ## 👥 Members
 
-|IT Number      | Name                
-|---|---|
-IT23225442      Abeysekara W.C.S.M.   
-IT23291546	    Munidasa T.G.D.L      
-IT23268258	    Fernando B.P.L        
-IT23282872	    Alawaththa A.K.R.T 
+| IT Number  | Name |
+| :--- | :--- |
+| IT23225442 | Abeysekara W.C.S.M. |
+| IT23291546 | Munidasa T.G.D.L |
+| IT23268258 | Fernando B.P.L |
+| IT23282872 | Alawaththa A.K.R.T |
